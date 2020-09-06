@@ -1,1 +1,1 @@
-### :information_source: Note: [I use GitLab.com for my personal repositories.](https://gitlab.com/lauritzt)
+### Note: [I use GitLab.com for my personal repositories.](https://gitlab.com/lauritzt)
